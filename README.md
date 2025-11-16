@@ -45,7 +45,7 @@ The demo instance has been terminated on December 21th, 2023. It's been expensiv
 
 ## Features
 
-- Check if phone number exists
+- 79237128940
 - Gather basic information such as country, line type and carrier
 - OSINT footprinting using external APIs, phone books & search engines
 - Check for reputation reports, social media, disposable numbers and more
